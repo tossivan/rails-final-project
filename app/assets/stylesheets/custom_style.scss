@@ -11,3 +11,39 @@
 .navbar .navbar-collapse {
     text-align: center;
 }
+
+#call-to-action{
+    height: 500px;
+    background : url("/assets/home-main.jpg") no-repeat center center fixed;
+    background-size: cover;
+    margin-top:0px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    
+}
+.welcome{
+    margin-top: 100px;
+    color:white;
+    height:300px;
+    font-size:2em;
+}
+.btn-center{
+    width:300px;
+    margin-top:50px;
+}
+.menu-block{
+    margin-top: 130px;
+}
+footer{
+    clear:both;
+    height:150px;
+    background-color: #2C3E50;
+    padding:20px;
+    margin-top:150px;
+    font-size: 1.4em;
+    color:white;
+}
+.fa .fa-icon{
+    font-size:100px;
+}
